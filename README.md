@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on full-stack web development
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me: You can reach me with via e-mail(ibrahimatakan97@gmail.com) or just click the website which I mentioned in below and bio as well
+- 📫 How to reach me: You can reach me with via e-mail or just click the website which I mentioned in below and bio as well
 
 https://solo.to/bruddamuudea
 
