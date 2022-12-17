@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on full-stack web development
+- 🌱 I’m currently learning javascript
+- 📫 How to reach me: You can reach me with via e-mail(ibrahimatakan97@gmail.com) or just click the website which I mentioned in below and bio as well
+
+https://solo.to/bruddamuudea
+
+Mail me : [E-mail](https://mail.google.com/mail/u/3/?ogbl#inbox?compose=DmwnWsdJLdGdsBnvqQVKqrfgNfwmSCLcDpXnmRGcfZSPdxMSXkFtDLgVpFflmnHgMvmxjFLchFjQ)
 
 <!--
 **atakane33/atakane33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
