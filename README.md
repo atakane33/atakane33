@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on full-stack web development
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me: You can reach me with via e-mail or just click the website which I mentioned in below and bio as well
+- 📫 How to reach me: You can reach me via e-mail or just click the website which I mentioned below and my bio as well
 - 📙 I can speak Turkish, English and German as well so feel free to ask any question for me
 
 https://solo.to/bruddamuudea
