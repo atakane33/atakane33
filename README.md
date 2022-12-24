@@ -16,7 +16,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=atakane33&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
 
-# 🚀 All Repositories:
+# 🚀 All Starred Repositories:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
