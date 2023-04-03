@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on full-stack web development<br>🌱 I’m currently learning javascript<br>📫 How to reach me: You can reach me via e-mail or just click the website which I mentioned below and my bio as well<br>📙 I can speak Turkish, English and German as well so feel free to ask any question for me
+🔭 I’m currently working on data science<br>🌱 I’m currently learning javascript<br>📫 How to reach me: You can reach me via e-mail or just click the website which I mentioned below and my bio as well<br>📙 I can speak Turkish, English and German as well so feel free to ask any question for me
 
 
 ## 🌐 Socials:
